@@ -1,6 +1,6 @@
 # GoNuts Company
 
-For that project I used bootstrap template as a starting point (basically I needed a navbar only). So then i spend some time putting everything on places and now that how it looks like
+For that project I used bootstrap template as a starting point (basically I needed a navbar only). Then I spent some time putting everything on places and now that how it looks like
 
 ## Links to things I used
 
