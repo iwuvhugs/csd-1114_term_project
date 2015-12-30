@@ -2,9 +2,9 @@
 
 For that project I used bootstrap template as a starting point (basically I needed a navbar only). So then i spend some time putting everything on places and now that how it looks like
 
+### Links to things I used
 
 [Business Frontpage](http://startbootstrap.com/template-overviews/business-frontpage/) is a basic business website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
-
 
 
 ## Creator
