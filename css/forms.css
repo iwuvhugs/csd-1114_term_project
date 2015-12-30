@@ -1,0 +1,32 @@
+/* General Styles */
+.business-header {
+    height: 120px;
+    background-image: url("../images/pattern.jpg");
+    background-repeat: repeat;
+    border-bottom: 1px solid #C2ADA9;
+}
+@media(max-width: 460px){
+	.business-header{
+		height: 140px;
+	}
+}
+
+/* Headers */
+h1.tagline{
+	padding: 10px 20px;
+	margin-top: 20px;
+	font-size: 1.8em;
+}
+
+/* Input Styles */
+textarea {
+   resize: none;
+}
+
+fieldset {
+	margin-top: 50px;
+}
+
+legend {
+	color: #A65304;
+}

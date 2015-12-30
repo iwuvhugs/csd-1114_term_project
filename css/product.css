@@ -1,0 +1,103 @@
+/* General Styles */
+.business-header {
+	height: 120px;
+	background-image: url("../images/pattern.jpg");
+	background-repeat: repeat;
+	border-bottom: 1px solid #C2ADA9;
+}
+
+/* Headers */
+h1.tagline{
+	padding: 10px 20px;
+	margin-top: 20px;
+	font-size: 1.8em;
+}
+.content {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.advice {
+	margin-top: 30px;
+	border-top: 1px solid #C2ADA9;
+}
+.title-prod{
+	margin-bottom: 15px;
+}
+
+@media(max-width: 991px) and (min-width: 767px){
+	.content {
+		padding-left: 48px;
+		padding-right: 48px;
+	}
+	.product {
+		margin-top: 30px;
+		border-top: 1px solid #C2ADA9;	
+	}
+
+}
+@media(max-width: 766px) and (min-width: 460px){
+	.content{
+		padding-left: 72px;
+		padding-right: 72px;
+	}
+	.business-header{
+		padding-left: 60px;
+		padding-right: 60px;	
+	}
+	h1.tagline{
+		font-size: 1.55em;
+	}
+	.img-prod, .title-prod {
+		text-align: center;
+	}
+	.description {
+		margin-top: 20px;
+	}
+	.product {
+		margin-top: 30px;
+		border-top: 1px solid #C2ADA9;	
+	}
+}
+@media(max-width: 459px){
+	.img-prod, .title-prod {
+		text-align: center;
+	}
+	.business-header{
+		height: 140px;
+	}
+	.description {
+		margin-top: 20px;
+	}
+	.product {
+		margin-top: 30px;
+		border-top: 1px solid #C2ADA9;	
+	}
+}	
+
+
+.badge {
+	background-color: #723903;
+}
+
+.list-group-item{
+	border: 1px solid #C2ADA9;
+}
+ul {
+	margin-top: 20px;
+}
+@media(min-width: 992px){
+	.categories{
+		margin-top: 29px;
+	}
+}
+figure {
+	margin-top: 15px;
+}
+
+/* Links Styles */
+a {
+	color: #723903;
+}
+a:hover {
+	color: #A65304;
+}
